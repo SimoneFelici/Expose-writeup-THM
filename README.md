@@ -1,2 +1,2 @@
-# Exposed-writeup-THM
+# Expose-writeup-THM
 My writeup of the TryHackMe room "Exposed"
