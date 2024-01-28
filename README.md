@@ -1,2 +1,2 @@
 # Expose-writeup-THM
-My writeup of the TryHackMe room "Exposed"
+My writeup of the TryHackMe room "Expose"
